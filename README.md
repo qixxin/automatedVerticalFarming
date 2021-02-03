@@ -1,2 +1,4 @@
 # automatedVerticalFarming
-![GreenWall](Wall.jpg)
+<p align="center">
+  <img src="./Wall.jpg" title="hover text">
+</p>
