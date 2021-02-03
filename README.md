@@ -1,2 +1,2 @@
 # automatedVerticalFarming
-![GreenWall](./Wall.jpg?raw=true "Title")
+![GreenWall](Wall.jpg)
